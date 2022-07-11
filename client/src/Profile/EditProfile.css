@@ -1,0 +1,54 @@
+.updateuser {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 100%;
+  }
+  .updateuser_input {
+    width: 100%;
+    padding: 10px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    border-radius: 10px;
+  }
+  
+  .updateuser > form {
+    margin: 50px;
+    padding: 30px;
+    border-style: outset;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    width: 50%;
+  }
+  .updateuser_label {
+    font-size: large;
+  }
+  .updateuser_btn {
+    border-radius: 5px;
+    background-color: #04aa86;
+    color: white;
+    width: 100%;
+    padding: 10px;
+    margin: 25px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    font-size: medium;
+    cursor: pointer;
+  }
+  .updateuser_btn:hover {
+    opacity: 0.8;
+  }
+  .profilePic{
+    width: 60%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    padding: 20px;
+  }
+  

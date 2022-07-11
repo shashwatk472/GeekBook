@@ -1,0 +1,57 @@
+.uploadpost {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.6);
+  top: 0px;
+  left: 0px;
+  z-index: 1000;
+}
+.modal {
+  background-color: white;
+  position: fixed;
+  top: 16%;
+  left: 23%;
+  width: 60%;
+  padding: 10px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+}
+.post_middle {
+  height: 60vh;
+  display: flex;
+  flex-direction: column;
+}
+.descrip_text {
+  word-break: break-all;
+}
+.post_bottom {
+  display: flex;
+  justify-content: space-between;
+}
+.attachments > .MuiIconButton-root {
+  width: 55px;
+}
+.post_submit > .MuiButton-root {
+  background-color: rgb(54, 94, 121);
+  color: white;
+  margin: 0px 10px;
+}
+.post_submit {
+  display: flex;
+  justify-content: space-between;
+}
+.close_post {
+  color: white;
+  position: absolute;
+  right: 0px;
+  font-size: 35px;
+  cursor: pointer;
+}
+.display_none {
+  display: none;
+}
+.display_block {
+  display: block;
+}

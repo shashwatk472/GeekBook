@@ -1,0 +1,63 @@
+.posts {
+  background-color: white;
+  margin-top: 10px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+}
+.posts_top {
+  display: flex;
+  padding: 10px;
+}
+.posts_info {
+  display: flex;
+  flex-direction: column;
+  margin-left: 20px;
+  flex: 1;
+}
+.posts_info > p {
+  font-size: 14px;
+}
+.posts_info > h3 {
+  font-weight: 500;
+  font-size: 17px;
+}
+
+.posts_top > .MuiIconButton-root {
+  padding: 0px;
+  margin: 0px;
+  font-size: medium;
+  width: 50px;
+}
+.posts_desc {
+  padding: 10px;
+}
+.posts_language {
+  display: flex;
+  justify-content: flex-end;
+}
+.posts_bottom {
+  display: flex;
+  align-items: center;
+  padding-left: 10px;
+}
+.posts_activity {
+  display: flex;
+  align-items: center;
+  padding: 8px 12px;
+  justify-content: space-between;
+  color: rgb(115, 118, 121);
+  margin-bottom: 5px;
+  border-radius: 5px;
+}
+.posts_activity > span {
+  margin-left: 5px;
+}
+.posts_activity:hover {
+  color: black;
+  background-color: rgb(239, 241, 243);
+  cursor: pointer;
+}
+.custom_prism {
+  margin-bottom: 10px;
+}

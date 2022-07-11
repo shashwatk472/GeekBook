@@ -1,0 +1,14 @@
+.sidebar {
+  background-color: white;
+  flex: 0.25;
+  border-radius: 10px;
+}
+.sidebar > h3 {
+  padding: 15px;
+}
+.communities {
+  padding: 10px 15px;
+}
+.communities:hover {
+  background-color: rgb(174, 182, 184);
+}

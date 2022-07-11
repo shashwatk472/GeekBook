@@ -1,0 +1,97 @@
+.login_input {
+  width: 100%;
+  padding: 10px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  border-radius: 10px;
+}
+.login {
+  background-color: rgb(213, 238, 238);
+  display: grid;
+  place-items: center;
+  height: 100vh;
+  width: 100vw;
+}
+.login_btn {
+  border-radius: 5px;
+  background-color: #04aa86;
+  color: white;
+  width: 100%;
+  padding: 10px;
+  margin: 25px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  font-size: medium;
+  cursor: pointer;
+}
+.container {
+  padding: 30px;
+  border-style: outset;
+  background-color: white;
+  border-radius: 10px;
+  width: 28%;
+  height: 80vh;
+}
+
+.login_btn:hover {
+  opacity: 0.8;
+}
+.login_h6{
+  width: 100%;
+  text-align: center;
+  border-bottom: 1px solid #000;
+  line-height: 0.1em;
+  margin: 28px 0 20px;
+}
+
+#h6_span{
+  background: #fff;
+  padding: 0 10px;
+}
+.google {
+  position: static;
+  float: left;
+  /* display: inline;
+  margin: auto; */
+  width: 40%;
+  text-align: center;
+  border-radius: 5px;
+}
+.fb {
+  /* margin: auto; */
+  text-align: center;
+  width: 40%;
+  background-color: #3b5998;
+  color: white;
+  font-size: medium;
+  font-weight: bold;
+  border-style: outset;
+  border-radius: 5px;
+}
+.github {
+  margin: 20px 0;
+  width: 40%;
+  text-align: center;
+  background-color: rgb(53, 51, 51);
+  font-size: medium;
+  font-weight: bold;
+  border-style: outset;
+  border-radius: 5px;
+}
+.linkedin {
+  display: inline;
+  margin: auto;
+  width: 40%;
+  text-align: center;
+  border-radius: 5px;
+  background-color: #0e76a8;
+  margin: 20px 0;
+}
+.extra {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
