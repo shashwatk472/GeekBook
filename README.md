@@ -1,7 +1,7 @@
 
 <h1  style="">Geekbook</h1>
 
-<h4 >A full stack web application where users can post their question, chat with other developers, and view the solution to their question. Users must first register before they can access the platform's features. It also has a profile section where users can view their own or other developers' profiles. It also has a feature that allows users to update their information.</h4>
+<h4 >A Social networking web application where programmers can conncet with each other. This application allows users to post their question and other programmer can give a solution for a problem. It also contains real time peer to peer chat feature. In this application users can view their own or other developers' profiles. It also has a feature that allows users to update their information.</h4>
 
 <h3>TECH STACK USED</h3>
 
@@ -19,39 +19,40 @@
 
 <h3 >SCREENSHOTS</h3>
 
+
+<p>New Users has to first register to access the web app</p>
 <p align="left" width="100%">
     <img width="60%"  src="https://github.com/shashwatk472/Geekbook/blob/main/Screenshots/Sign-up.png"> 
 </p>
 
-<p>New Users has to first register to access the web app</p>
-
+<p>If the user already has an account, he or she can sign in directly.</p>
 <p align="left" width="100%">
     <img width="60%" src="https://github.com/shashwatk472/Geekbook/blob/main/Screenshots/Sign-in.png"> 
 </p>
 
 
-<p>If the user already has an account, he or she can sign in directly.</p>
 
+
+<p>This is the home page, which includes the latest posts, the navbar, the user avatar, and the share post feature.</p>
 <p align="left" width="100%">
     <img width="60%" src="https://github.com/shashwatk472/Geekbook/blob/main/Screenshots/Home.png"> 
 </p>
 
-<p>This is the home page, which includes the navbar, the user avatar, and the posts.</p>
-
+<p>The post includes a description and code, and the user must specify the language for syntax highlighting.</p>
 <p align="left" width="100%">
     <img width="60%" src="https://github.com/shashwatk472/Geekbook/blob/main/Screenshots/Post.png"> 
 </p>
 
-<p>The post includes a description and code, and the user must specify the language for syntax highlighting.</p>
 
+<p>The user profile includes basic information such as the user's name, occupation, and institution, as well as the user's photo.</p>
 <p align="left" width="100%">
     <img width="60%" src="https://github.com/shashwatk472/Geekbook/blob/main/Screenshots/User%20profile.png"> 
 </p>
 
-<p>The user profile includes basic information such as the user's name, occupation, and institution, as well as the user's photo.</p>
 
+<p>This is the chat component , where the user can converse with another user in real-time. The users with whom the user recently communicated are displayed on the left.</p>
 <p align="left" width="100%">
     <img width="60%" src="https://github.com/shashwatk472/Geekbook/blob/main/Screenshots/Chat.png"> 
 </p>
 
-<p>This is the chat component, where the user can converse with another user. The users with whom the user recently communicated are displayed on the left..</p>
+
