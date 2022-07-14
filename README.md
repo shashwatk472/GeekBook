@@ -1,7 +1,7 @@
 
 <h1  style="">Geekbook</h1>
 
-<h4 >A Social networking web application where programmers can conncet with each other. This application allows users to post their question and other programmer can give a solution for a problem. It also contains real time peer to peer chat feature. In this application users can view their own or other developers' profiles. It also has a feature that allows users to update their information.</h4>
+<h4 >A Social networking web application where programmers can connect. This application allows users to post their questions and other programmers can give a solution for a problem. It also contains a real-time peer-to-peer chat feature. In this application users can view their own or other developers' profiles. It also has a feature that allows users to update their information.</h4>
 
 <h3>TECH STACK USED</h3>
 
